@@ -18,9 +18,9 @@
     },
     "autoload":
     {
-        "psr-4":
+        "psr-0":
         {
-            "sergiosgc\\Text_Tokenizer\\": "lib/"
+            "sergiosgc\\": "lib/"
         }
     }
 }
