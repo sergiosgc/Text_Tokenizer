@@ -1,0 +1,26 @@
+{
+    "name": "sergiosgc/Text_Tokenizer",
+    "description": "Text_Tokenizer defines the interface for a tokenizer class and the data model for a single token, usable when parsing text",
+    "keywords": ["parser", "tokenizer"],
+    "type": "library",
+    "license": "GPLv3",
+    "homepage": "https://github.com/sergiosgc/Text_Tokenizer",
+    "authors":
+    [
+        {
+            "name": "Sérgio Carvalho",
+            "homepage": "https://github.com/sergiosgc"
+        }
+    ],
+    "require":
+    {
+        "php": ">=7.0.0"
+    },
+    "autoload":
+    {
+        "psr-4":
+        {
+            "sergiosgc\\Text_Tokenizer": "lib/"
+        }
+    }
+}

@@ -1,5 +1,7 @@
 <?php
-require_once('Text/Tokenizer/Lookahead.php');
+/* vim: set expandtab tabstop=4 shiftwidth=4 foldmethod=marker: */
+namespace sergiosgc\Text_Tokenizer;
+
 class Text_Tokenizer_Lookahead_Adapter implements Text_Tokenizer_Lookahead
 {
     protected $regularTokenizer;
