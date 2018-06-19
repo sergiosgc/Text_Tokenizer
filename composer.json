@@ -20,7 +20,7 @@
     {
         "psr-4":
         {
-            "sergiosgc\\Text_Tokenizer": "lib/"
+            "sergiosgc\\Text_Tokenizer\\": "lib/"
         }
     }
 }
