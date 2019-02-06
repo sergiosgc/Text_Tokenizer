@@ -1,5 +1,5 @@
 {
-    "name": "sergiosgc/Text_Tokenizer",
+    "name": "sergiosgc/text_tokenizer",
     "description": "Text_Tokenizer defines the interface for a tokenizer class and the data model for a single token, usable when parsing text",
     "keywords": ["parser", "tokenizer"],
     "type": "library",
